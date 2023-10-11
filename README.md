@@ -1,9 +1,9 @@
-[START-CODEX-2241016412](https://github.com/Pritish-Pradhan/CodexStart_2241016412)
+# START-CODEX-2241016412
 
 Introductory Problems of CSES - Solution
 
 
-[About](https://github.com/Pritish-Pradhan)
+# ABOUT
 
 Name: Pritish Priyadarshi Pradhan<br>
 Regd_No: 2241016412<br>
