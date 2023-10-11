@@ -5,6 +5,6 @@ Introductory Problems of CSES - Solution
 
 [About](https://github.com/Pritish-Pradhan)
 
-Name: Pritish Priyadarshi Pradhan
-Regd_No: 2241016412
+Name: Pritish Priyadarshi Pradhan<br>
+Regd_No: 2241016412<br>
 CSES USERNAME: pritish_2003
